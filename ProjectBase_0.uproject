@@ -12,42 +12,12 @@
 			]
 		},
 		{
-			"Name": "GPULightmass",
-			"Enabled": true
-		},
-		{
-			"Name": "MassAI",
-			"Enabled": true
-		},
-		{
-			"Name": "MassCrowd",
-			"Enabled": true
-		},
-		{
 			"Name": "ZoneGraph",
 			"Enabled": true
 		},
 		{
 			"Name": "ZoneGraphAnnotations",
 			"Enabled": true
-		},
-		{
-			"Name": "OculusVR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
-			"Name": "OpenXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Linux",
-				"Android",
-				"HoloLens"
-			]
 		},
 		{
 			"Name": "SteamVR",
@@ -142,6 +112,14 @@
 		},
 		{
 			"Name": "NiagaraSimCaching",
+			"Enabled": true
+		},
+		{
+			"Name": "PixelStreamingPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "LiveLink",
 			"Enabled": true
 		}
 	]
