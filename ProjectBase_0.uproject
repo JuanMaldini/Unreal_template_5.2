@@ -131,6 +131,10 @@
 				"Android",
 				"HoloLens"
 			]
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
 		}
 	]
 }
